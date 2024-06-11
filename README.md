@@ -47,7 +47,7 @@ Não recomendamos Hostinger, Hostgator e Locaweb.</br>
 Siga o arquivo de Instruções para instalação:
 
 ```
-https://drive.google.com/file/d/1KNlGVrYgq6jv3TDzgn8ePr2Be5hOqy3J/view?usp=drivesdk
+[https://drive.google.com/file/d/1KNlGVrYgq6jv3TDzgn8ePr2Be5hOqy3J/view?usp=drivesdk](https://drive.google.com/file/d/1L5pxteLT2UF0lfCelN6xYMNFRaaSvffu/view?usp=drivesdk)
 ```
 
 Confira no pdf aqui como gerar um webhook de retorno automático de pagamento da Efi.
