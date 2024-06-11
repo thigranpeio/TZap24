@@ -16,11 +16,11 @@ STANDARD: 4 vCores, 12 GB de RAM e 200 GB de SSD NVMe $ 7.99 USD Mensal com taxa
 https://control.peramix.com/?affid=14
 ```
 
-Está é uma versão com delay sobre a atualmente comercializada 4.8.2 de 4.8.2.
+Eventualmente manteremos a versão mais atrasada a atualmente em comercialização. Podendo estar em algum momento atualizada.
 
-Nós não iremos dispobilizar GRATUITAMENTE a versão mais atualizada e sim as anteriores, para ter a versão sempre mais recente adquira com um fornecedor. </br>
+Versão 4.8.2 de 4.8.2.</br>
 
-Não há suporte, gentileza não enviar emails ou chamar nas redes sociais, utilize a seção Issues do próprio Github.
+Não há suporte, gentileza não enviar e-mails ou chamar nas redes sociais, utilize a seção Issues do próprio Github.
 
 Caso queira fazer uma contribuição, serei muito grato.</br>
 Chave Pix, aleatória:
@@ -57,6 +57,3 @@ Confira no pdf aqui como gerar um webhook de retorno automático de pagamento da
 ```
 Personalizações:</br>
 As instruções para alteração de cores, logo, icones e nome da instalação estão no arquivo de instruções.
-
-Bugs:
-* Erro na criação de empresas pelo Admin, está corrigindo nas próximas atualizações.
