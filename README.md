@@ -16,7 +16,8 @@ STANDARD: 4 vCores, 12 GB de RAM e 200 GB de SSD NVMe $ 7.99 USD Mensal com taxa
 https://control.peramix.com/?affid=14
 ```
 
-Está é uma versão com delay sobre a atualmente comercializada 4.6.5 de 4.7.8. Nós não iremos dispobilizar GRATUITAMENTE a versão mais atualizada e sim as anteriores, para ter a versão sempre mais recente adquira com um fornecedor. </br>
+Está é uma versão com delay sobre a atualmente comercializada 4.8.2 de 4.8.2
+Nós não iremos dispobilizar GRATUITAMENTE a versão mais atualizada e sim as anteriores, para ter a versão sempre mais recente adquira com um fornecedor. </br>
 
 Não há suporte, gentileza não enviar emails ou chamar nas redes sociais, utilize a seção Issues do próprio Github.
 
